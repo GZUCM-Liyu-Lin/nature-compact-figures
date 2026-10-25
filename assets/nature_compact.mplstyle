@@ -21,6 +21,12 @@ xtick.major.pad: 2
 ytick.major.pad: 2
 lines.linewidth: 0.8
 legend.frameon: False
+legend.borderpad: 0.2
+legend.labelspacing: 0.3
+legend.handlelength: 1.2
+legend.handletextpad: 0.5
+legend.borderaxespad: 0.3
+legend.columnspacing: 0.8
 figure.facecolor: white
 axes.facecolor: white
 savefig.facecolor: white
