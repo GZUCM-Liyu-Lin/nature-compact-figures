@@ -1,0 +1,6 @@
+interface:
+  display_name: "nature绘图skills"
+  short_description: "首选Nature紧凑科研绘图：Arial大字、至少5pt、固定十色与可编辑矢量输出"
+  default_prompt: "使用 $nature-compact-figures 按我的首选Nature/NC紧凑风格绘图，统一Arial字体、保证最终字号至少5pt并优先6–7pt，采用固定十色。"
+policy:
+  allow_implicit_invocation: true
